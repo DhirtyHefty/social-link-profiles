@@ -91,10 +91,12 @@ li{
     .profile-fig{
         width: 120px;
         height: 120px;
+        margin: 0 auto 15px;
     }
 
     .btn{
         padding: 12px;
         font-size: 1rem;
+        margin-bottom: 20px;
     }
 }
